@@ -1,0 +1,5 @@
+__pycache__/
+summarylogs/
+notebooks/ipynb_checkpoints/
+notebooks/wandb/
+data/
